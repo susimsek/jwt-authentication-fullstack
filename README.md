@@ -24,7 +24,7 @@ Swagger Url : http://localhost/api/documentation/swagger-ui/
 
 App Url : http://localhost
 
-<img src="https://github.com/susimsek/jwt-authentication-fullstack/blob/master/images/app.png" alt="Spring Boot React App" width="50%" height="50%"/>
+<img src="https://github.com/susimsek/jwt-authentication-fullstack/blob/master/images/app.png" alt="Spring Boot React App" width="50%" height="50%"/> 
 
 <img src="https://github.com/susimsek/jwt-authentication-fullstack/blob/master/images/app-home.png" alt="Spring Boot React Home Page" width="50%" height="50%"/>
 
